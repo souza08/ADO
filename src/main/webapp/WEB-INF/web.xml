@@ -6,15 +6,15 @@
     </servlet>
     <servlet>
         <servlet-name>ver</servlet-name>
-        <servlet-class>br.com.senac.pi3.servlet.ver</servlet-class>
+        <servlet-class>br.com.senac.ado.servlet.ver</servlet-class>
     </servlet>
     <servlet>
         <servlet-name>xcvcxvxv</servlet-name>
-        <servlet-class>br.com.senac.pi3.servlet.xcvcxvxv</servlet-class>
+        <servlet-class>br.com.senac.ado.servlet.xcvcxvxv</servlet-class>
     </servlet>
     <servlet>
         <servlet-name>NewServlet</servlet-name>
-        <servlet-class>br.com.senac.pi3.servlet.NewServlet</servlet-class>
+        <servlet-class>br.com.senac.ado.servlet.NewServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>PesquisarProduto</servlet-name>

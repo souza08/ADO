@@ -4,7 +4,7 @@
     Author     : Souza08
 --%>
 
-<%@page import="br.com.senac.pi3.model.produto.Produto"%>
+<%@page import="br.com.senac.ado.model.produto.Produto"%>
 <%@page import="java.util.List"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
