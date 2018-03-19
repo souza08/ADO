@@ -25,7 +25,6 @@
 <!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 </head>
 <body>
-
 <div id="wrapper2" >
 	<div id="welcome" class="container" >
 		<div class="title">
